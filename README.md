@@ -1,6 +1,19 @@
 # 📂 Java File Organizer
 
-![Java File Organizer](https://youranimatediconlink.com) <!-- Replace with an actual animated icon link -->
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+
+## 🔥 Quick Run
+
+```bash
+# Navigate to the project directory
+cd /path/to/your/project/directory
+
+# Compile the Java program
+javac FileOrganizer.java
+
+# Run the Java program
+java FileOrganizer
+```
 
 ## 🔄 How to Use
 
@@ -31,14 +44,4 @@ Organize your files with ease! This **Java-based File Organizer** automatically 
 - Leverages `Files.move()` for seamless file transfer to new folders.
 - Creates organized folders based on each file’s extension dynamically.
 
-## 🔥 Quick Run
 
-```bash
-# Navigate to the project directory
-cd /path/to/your/project/directory
-
-# Compile the Java program
-javac FileOrganizer.java
-
-# Run the Java program
-java FileOrganizer
