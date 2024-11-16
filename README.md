@@ -1,5 +1,4 @@
-
-# FileOrganizer - Java
+<h1 align="center">File Organizer using Java</h1>
 
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
