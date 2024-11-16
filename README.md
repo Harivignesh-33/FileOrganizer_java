@@ -46,15 +46,9 @@ https://github.com/user-attachments/assets/2697ba6c-ad83-42bc-8749-9f769f367848
 
 
 
-The application will automatically move files into predefined folders based on their file type. 
+- The application will automatically move files into predefined folders based on their file type. 
 
-### Example
-
-```bash
-java -cp bin FileOrganizer /Users/username/Documents
-```
-
-After running, the application organizes files into subfolders like `/pdf`, `/jpeg`, `/mp4.....`, etc., within the specified directory.
+- After running, the application organizes files into subfolders like `/pdf`, `/jpeg`, `/mp4.....`, etc., within the specified directory.
 
 ## 📁 File Types Supported
 
