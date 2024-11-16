@@ -14,16 +14,6 @@
 - **Easy-to-Use CLI**: Interact with the application through a clean, command-line interface.
 - **Cross-Platform Support**: Compatible with Windows, macOS, and Linux.
 
-## 📋 Table of Contents
-
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Types Supported](#file-types-supported)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
@@ -51,11 +41,11 @@
 
 ## 💻 Usage
 
-To organize files in a directory, simply specify the directory path as follows:
 
-```bash
-java -cp bin FileOrganizer /path/to/your/directory
-```
+
+https://github.com/user-attachments/assets/2697ba6c-ad83-42bc-8749-9f769f367848
+
+
 
 The application will automatically move files into predefined folders based on their file type. 
 
@@ -65,7 +55,7 @@ The application will automatically move files into predefined folders based on t
 java -cp bin FileOrganizer /Users/username/Documents
 ```
 
-After running, the application organizes files into subfolders like `/Documents`, `/Images`, `/Audio`, etc., within the specified directory.
+After running, the application organizes files into subfolders like `/pdf`, `/jpeg`, `/mp4.....`, etc., within the specified directory.
 
 ## 📁 File Types Supported
 
